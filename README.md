@@ -1,4 +1,4 @@
-# untitled2
+# Eaasy Kitchen
 
 A new Flutter project.
 
