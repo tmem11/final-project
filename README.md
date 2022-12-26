@@ -1,3 +1,3 @@
-# Eaasy Kitchen
+# Easy Kitchen
 
 
